@@ -1,0 +1,594 @@
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\MP.dll.config
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\MP.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\MP.pdb
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\csc.exe
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\csc.exe.config
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\csc.rsp
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\csi.exe
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\csi.exe.config
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\csi.rsp
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.AppContext.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Console.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Http.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Sockets.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.ValueTuple.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe.config
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\vbc.rsp
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\System.Web.Optimization.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\WebGrease.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\System.Web.Optimization.xml
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.xml
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.pdb
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\disconk\disk on key\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\disconk\disk on key\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.AssemblyReference.cache
+D:\disconk\disk on key\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+D:\disconk\disk on key\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CopyComplete
+D:\disconk\disk on key\taba\MasterPage\MP\MP\obj\Debug\MP.dll
+D:\disconk\disk on key\taba\MasterPage\MP\MP\obj\Debug\MP.pdb
+F:\taba\MasterPage\MP\MP\bin\MP.dll.config
+F:\taba\MasterPage\MP\MP\bin\MP.dll
+F:\taba\MasterPage\MP\MP\bin\MP.pdb
+F:\taba\MasterPage\MP\MP\bin\roslyn\csc.exe
+F:\taba\MasterPage\MP\MP\bin\roslyn\csc.exe.config
+F:\taba\MasterPage\MP\MP\bin\roslyn\csc.rsp
+F:\taba\MasterPage\MP\MP\bin\roslyn\csi.exe
+F:\taba\MasterPage\MP\MP\bin\roslyn\csi.exe.config
+F:\taba\MasterPage\MP\MP\bin\roslyn\csi.rsp
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.AppContext.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Console.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Http.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Sockets.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.ValueTuple.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe
+F:\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe.config
+F:\taba\MasterPage\MP\MP\bin\roslyn\vbc.rsp
+F:\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe
+F:\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+F:\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.dll
+F:\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+F:\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+F:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+F:\taba\MasterPage\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+F:\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.dll
+F:\taba\MasterPage\MP\MP\bin\System.Web.Optimization.dll
+F:\taba\MasterPage\MP\MP\bin\WebGrease.dll
+F:\taba\MasterPage\MP\MP\bin\System.Web.Optimization.xml
+F:\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.xml
+F:\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.pdb
+F:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.AssemblyReference.cache
+F:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+F:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CopyComplete
+F:\taba\MasterPage\MP\MP\obj\Debug\MP.dll
+F:\taba\MasterPage\MP\MP\obj\Debug\MP.pdb
+H:\taba\MasterPage\MP\MP\bin\MP.dll.config
+H:\taba\MasterPage\MP\MP\bin\MP.dll
+H:\taba\MasterPage\MP\MP\bin\MP.pdb
+H:\taba\MasterPage\MP\MP\bin\roslyn\csc.exe
+H:\taba\MasterPage\MP\MP\bin\roslyn\csc.exe.config
+H:\taba\MasterPage\MP\MP\bin\roslyn\csc.rsp
+H:\taba\MasterPage\MP\MP\bin\roslyn\csi.exe
+H:\taba\MasterPage\MP\MP\bin\roslyn\csi.exe.config
+H:\taba\MasterPage\MP\MP\bin\roslyn\csi.rsp
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.AppContext.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Console.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Http.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Sockets.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.ValueTuple.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe
+H:\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe.config
+H:\taba\MasterPage\MP\MP\bin\roslyn\vbc.rsp
+H:\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe
+H:\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+H:\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.dll
+H:\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+H:\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+H:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+H:\taba\MasterPage\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+H:\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.dll
+H:\taba\MasterPage\MP\MP\bin\System.Web.Optimization.dll
+H:\taba\MasterPage\MP\MP\bin\WebGrease.dll
+H:\taba\MasterPage\MP\MP\bin\System.Web.Optimization.xml
+H:\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.xml
+H:\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.pdb
+H:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\taba\MasterPage\MP\MP\obj\Debug\MP.csprojAssemblyReference.cache
+H:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+H:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CopyComplete
+H:\taba\MasterPage\MP\MP\obj\Debug\MP.dll
+H:\taba\MasterPage\MP\MP\obj\Debug\MP.pdb
+D:\taba\MasterPage\MP\MP\bin\MP.dll.config
+D:\taba\MasterPage\MP\MP\bin\MP.dll
+D:\taba\MasterPage\MP\MP\bin\MP.pdb
+D:\taba\MasterPage\MP\MP\bin\roslyn\csc.exe
+D:\taba\MasterPage\MP\MP\bin\roslyn\csc.exe.config
+D:\taba\MasterPage\MP\MP\bin\roslyn\csc.rsp
+D:\taba\MasterPage\MP\MP\bin\roslyn\csi.exe
+D:\taba\MasterPage\MP\MP\bin\roslyn\csi.exe.config
+D:\taba\MasterPage\MP\MP\bin\roslyn\csi.rsp
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\taba\MasterPage\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.AppContext.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Console.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Http.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Net.Sockets.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.ValueTuple.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe
+D:\taba\MasterPage\MP\MP\bin\roslyn\vbc.exe.config
+D:\taba\MasterPage\MP\MP\bin\roslyn\vbc.rsp
+D:\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe
+D:\taba\MasterPage\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+D:\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.dll
+D:\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+D:\taba\MasterPage\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+D:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\taba\MasterPage\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\taba\MasterPage\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+D:\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.dll
+D:\taba\MasterPage\MP\MP\bin\System.Web.Optimization.dll
+D:\taba\MasterPage\MP\MP\bin\WebGrease.dll
+D:\taba\MasterPage\MP\MP\bin\System.Web.Optimization.xml
+D:\taba\MasterPage\MP\MP\bin\Newtonsoft.Json.xml
+D:\taba\MasterPage\MP\MP\bin\Antlr3.Runtime.pdb
+D:\taba\MasterPage\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\taba\MasterPage\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.AssemblyReference.cache
+D:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+D:\taba\MasterPage\MP\MP\obj\Debug\MP.csproj.CopyComplete
+D:\taba\MasterPage\MP\MP\obj\Debug\MP.dll
+D:\taba\MasterPage\MP\MP\obj\Debug\MP.pdb
+G:\taba\‏‏MasterPage - עותק\MP\MP\obj\Debug\MP.dll
+G:\taba\‏‏MasterPage - עותק\MP\MP\obj\Debug\MP.pdb
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.exe
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.exe.config
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.rsp
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.exe
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.exe.config
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.rsp
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.AppContext.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Console.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Http.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Sockets.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.ValueTuple.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe.config
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.rsp
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe
+F:\taba\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+F:\taba\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.dll
+F:\taba\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+F:\taba\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+F:\taba\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.dll
+F:\taba\SuperHerosSite\MP\MP\bin\System.Web.Optimization.dll
+F:\taba\SuperHerosSite\MP\MP\bin\WebGrease.dll
+F:\taba\SuperHerosSite\MP\MP\bin\System.Web.Optimization.xml
+F:\taba\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.xml
+F:\taba\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.pdb
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\taba\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+F:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CopyComplete
+E:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.AssemblyReference.cache
+E:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+E:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.dll
+E:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.pdb
+E:\taba\SuperHerosSite\MP\MP\bin\MP.dll.config
+E:\taba\SuperHerosSite\MP\MP\bin\MP.dll
+E:\taba\SuperHerosSite\MP\MP\bin\MP.pdb
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.exe
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.exe.config
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.rsp
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.exe
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.exe.config
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.rsp
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.AppContext.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Console.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Http.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Sockets.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.ValueTuple.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe.config
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.rsp
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe
+E:\taba\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+E:\taba\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.dll
+E:\taba\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+E:\taba\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+E:\taba\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.dll
+E:\taba\SuperHerosSite\MP\MP\bin\System.Web.Optimization.dll
+E:\taba\SuperHerosSite\MP\MP\bin\WebGrease.dll
+E:\taba\SuperHerosSite\MP\MP\bin\System.Web.Optimization.xml
+E:\taba\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.xml
+E:\taba\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.pdb
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\taba\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CopyComplete
+F:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.AssemblyReference.cache
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\MP.dll.config
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\MP.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\MP.pdb
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\csc.exe
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\csc.exe.config
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\csc.rsp
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\csi.exe
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\csi.exe.config
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\csi.rsp
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.AppContext.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Console.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Http.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Sockets.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.ValueTuple.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe.config
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\vbc.rsp
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\System.Web.Optimization.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\WebGrease.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\System.Web.Optimization.xml
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.xml
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.pdb
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.AssemblyReference.cache
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CopyComplete
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\obj\Debug\MP.dll
+D:\disconk\disk on key\taba\SuperHerosSite\SuperHerosSite\MP\MP\obj\Debug\MP.pdb
+F:\taba\SuperHerosSite\MP\MP\bin\l.dll.config
+F:\taba\SuperHerosSite\MP\MP\bin\l.dll
+F:\taba\SuperHerosSite\MP\MP\bin\l.pdb
+F:\taba\SuperHerosSite\MP\MP\obj\Debug\l.dll
+F:\taba\SuperHerosSite\MP\MP\obj\Debug\l.pdb
+D:\taba\SuperHerosSite\MP\MP\bin\l.dll.config
+D:\taba\SuperHerosSite\MP\MP\bin\l.dll
+D:\taba\SuperHerosSite\MP\MP\bin\l.pdb
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.exe
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.exe.config
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\csc.rsp
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.exe
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.exe.config
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\csi.rsp
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.AppContext.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Collections.Immutable.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Console.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Globalization.Calendars.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Http.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Net.Sockets.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Reflection.Metadata.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.ValueTuple.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.exe.config
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\vbc.rsp
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe
+D:\taba\SuperHerosSite\MP\MP\bin\roslyn\VBCSCompiler.exe.config
+D:\taba\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.dll
+D:\taba\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.bootstrap.dll
+D:\taba\SuperHerosSite\MP\MP\bin\AspNet.ScriptManager.jQuery.dll
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.Web.Infrastructure.dll
+D:\taba\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.dll
+D:\taba\SuperHerosSite\MP\MP\bin\System.Web.Optimization.dll
+D:\taba\SuperHerosSite\MP\MP\bin\WebGrease.dll
+D:\taba\SuperHerosSite\MP\MP\bin\System.Web.Optimization.xml
+D:\taba\SuperHerosSite\MP\MP\bin\Newtonsoft.Json.xml
+D:\taba\SuperHerosSite\MP\MP\bin\Antlr3.Runtime.pdb
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\taba\SuperHerosSite\MP\MP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.AssemblyReference.cache
+D:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+D:\taba\SuperHerosSite\MP\MP\obj\Debug\MP.csproj.CopyComplete
+D:\taba\SuperHerosSite\MP\MP\obj\Debug\l.dll
+D:\taba\SuperHerosSite\MP\MP\obj\Debug\l.pdb

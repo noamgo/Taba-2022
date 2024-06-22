@@ -1,0 +1,188 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MP.master.cs" Inherits="MP.MP" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>MARVELOUS</title>
+    <style>
+ body { direction: rtl;
+        background-color:antiquewhite;
+        margin:20px;
+ }
+ .MPtable{
+ width: 100%;
+ border: 1px solid silver;
+ background-color:antiquewhite;
+ }
+ .MPheader {
+ text-align: center;
+ width: 100%;
+ border: 1px solid silver;
+ background-color:antiquewhite;
+ }
+ .MPmenu {
+ text-align: center;
+ width: 100%;
+ border: 1px solid silver;
+ height: 20px;
+ background-color:antiquewhite;
+ font-size:16pt;
+ }
+ .MPmainPage {
+ width: 100%;
+ border: 1px solid silver;
+ height: 400px;
+ background-color:antiquewhite;
+ }
+ .MPfooter {
+ border: 1px solid silver;
+ height: 20px;
+ background-color:antiquewhite;
+ }
+ .MPh1 { color: crimson; text-align: center;}
+ .MPh2 { color: crimson; text-align: center; }
+ </style>
+
+    <script>
+        function detectField() {
+            if (document.getElementById("field").value == "gender") {
+                document.getElementById("query").innerHTML =
+                    "<input type='radio' name='value' value='male' checked='cheched'/>זכר" +
+                    "<input type='radio' name='value' value='female' />נקבה";
+            }
+            else {
+                if (document.getElementById("field").value == "YearBorn") {
+                    var yearStr = "<select name='value'><option value='0'>בחר שנה</option>";
+                    var currYear = new Date().getFullYear();
+                    var fromYear = currYear - 40;
+                    var toYear = currYear - 10;
+
+                    for (var i = fromYear; i < toYear; i++) {
+                        yearStr += "<option value='" + i + "'>" + i + "</option>\n";
+                    }
+
+                    document.getElementById("query").innerHTML = yearStr + "</select>";
+                }
+                else {
+                    if (document.getElementById("field").value == "prefix") {
+                        var prefixStr = "<select name='value'>";
+
+                        prefixStr += "< option value = '050' selected > 050</option>";
+                        prefixStr += "<option value='052'>052</option>";
+                        prefixStr += "<option value='053'>053</option>";
+                        prefixStr += "<option value='054'>054</option>";
+                        prefixStr += "<option value='055'>055</option>";
+                        prefixStr += "<option value='057'>057</option>";
+                        prefixStr += "<option value='058'>058</option>";
+                        prefixStr += "<option value='02'>02</option>";
+                        prefixStr += "<option value='03'>03</option>";
+                        prefixStr += "<option value='04'>04</option>";
+                        prefixStr += "<option value='08'>08</option>";
+                        prefixStr += "<option value='09'>09</option>";
+                        prefixStr += "<option value='077'>077</option>";
+
+                        prefixStr += "</select>";
+
+                        document.getElementById("query").innerHTML = prefixStr;
+                    }
+
+                    else {
+                        if (document.getElementById("field").value == "hobby") {
+                            var hobbyStr = "<select name='value'>";
+
+                            hobbyStr += "<option value='1'>סרטים</option>";
+                            hobbyStr += "<option value = '2'>לשחק במחשב</option>";
+                            hobbyStr += "<option value = '3'>קומיקסים</option>";
+                            hobbyStr += "<option value = '4'>סדרות</option>";
+                            hobbyStr += "<option value = '5'>ספרים</option>";
+                            hobbyStr += "</select>";
+
+                            document.getElementById("query").innerHTML = hobbyStr;
+                        }
+                        else {
+                            if (document.getElementById("field").value == "city") {
+                                var cityStr = "<select name='value'>";
+
+                                cityStr += "<option value ='חיפה'> חיפה </option>";
+                                cityStr += "<option value='תל - אביב'>תל-אביב</option>";
+                                cityStr += "<option value ='ירושלים'>ירושלים</option>";
+                                cityStr += "<option value = 'מודיעין' selected > מודיעין</option>";
+                                cityStr += "<option value ='באר-שבע'>באר-שבע</option>";
+                                cityStr += "<option value ='מטולה'>מטולה</option>";
+                                cityStr += "<option value = 'צפון'>צפון</option>";
+                                cityStr += "<option value = 'מרכז'>מרכז</option>";
+                                cityStr += "<option value = 'דרום'>דרום</option>";
+
+                                cityStr += "</select>";
+                                document.getElementById("query").innerHTML = cityStr;
+
+                            }
+                            else {
+                                document.getElementById("query").innerHTML = "<input type='text' name='value' />";
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        setInterval("myTimer()", 50);
+        function myTimer() {
+            var d = new Date();
+            var t = d.toLocaleTimeString();
+            document.getElementById("myTime").innerHTML = t;
+        }
+    </script>
+
+    <!--~~~~~~~~~~~~~ Head place holder ~~~~~~~~~~~~-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+</head>
+<body>
+    <table class="MPtable">
+        <tr>
+            <td style ="width: 15%;" align="center" class="MPheader">
+                <%= loginMsg %>
+            </td>
+            <td style ="width: 60%;" class="MPheader">
+               <img style="width:100%" src="SitePICS/web_text.png" />
+            </td>
+            <td style ="width: 15%;" align="center" class="MPheader">
+                 <h1 id="myTime"> </h1>   
+            </td>
+        </tr>
+        <tr>
+            <td class="MPmenu" colspan="3">
+                <!-- תפריט ראשי -->
+                [<a href="First.aspx">דף הבית</a>]
+                [<a href="Marvel.aspx">גיבורים</a>]
+                [<a href="Creators.aspx">היוצרים הגדולים</a>]
+                [<a href="Gallery1.aspx">גלריית תמונות</a>]
+            </td>
+        </tr>
+        <tr>
+            <td class="MPmainPage" colspan="3">
+                <!-- ~~~~~~~~~ Body place holder ~~~~~~~~~~~~~~~~~ -->
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1"
+                    runat="server">
+                </asp:ContentPlaceHolder>
+                <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+            </td>
+        </tr>
+        <tr>
+            <td class="MPfooter">
+
+            </td>
+            <td class="MPfooter">
+                <h2 class="MPh2">האתר נבנה ע"י נועם גולדפרב</h2>
+            </td>
+            <td class="MPfooter" style="text-align:center">
+               מונה משתמשים- <%=Application["counter"] %>  
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
